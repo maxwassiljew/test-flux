@@ -10,4 +10,4 @@ metadata:
   namespace: app1
 spec:
   interval: 1m
-  path: "./manifests"
+  path: "./app1/manifests"
