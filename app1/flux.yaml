@@ -11,3 +11,7 @@ metadata:
 spec:
   interval: 1m
   path: "./manifests"
+  sourceRef:
+    kind: GitRepository
+    name: example-repo
+  prune: true
