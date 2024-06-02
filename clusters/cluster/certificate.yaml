@@ -8,6 +8,6 @@ spec:
   issuerRef:
     name: letsencrypt-cloudflare
     kind: ClusterIssuer
-  commonName: example.com
+  commonName: tryrocket.cloud
   dnsNames:
   - nginx.tryrocket.cloud
