@@ -12,3 +12,4 @@ spec:
   dnsNames:
   - tryrocket.cloud
   - nginx.tryrocket.cloud
+  - nginx1.tryrocket.cloud
